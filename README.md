@@ -1,1 +1,1 @@
-# segundo-desafio-de-projeto-do--bootcamp-de-logica-de-programacao-da-DIO
+O segundo desafio de projeto do bootcamp da DIO de lógica de programação. Código simples em JavaScript com função, estrutura de decisão If/Else-If/If e Laço de repetição For, para calcular o saldo de vitórias em partidas rankeadas.
